@@ -7,7 +7,7 @@ PLUGIN_METADATA = {
     'version': '1.0.0',
     'name': 'game of death',
     'description': 'a LITTEL GAME',
-    'author': '浔钰',
+    'author': 'MICOAST',
     'link': 'https://github.com/MICOAST/MCDR-deadgame-plugin/blob/main/DyingRoulette-v1.0.0.py'
 }
 
