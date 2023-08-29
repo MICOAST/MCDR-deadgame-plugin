@@ -1,5 +1,6 @@
 # MCDR-deadgame-plugin
 一款关于MCDR的轮盘赌小游戏插件
+
 灵感来自雷疯https://www.bilibili.com/video/BV1Xm4y1W7Bn/
 使用!!dead help来查看指定人与概率
 使用!!dead config w:数字,数字  来修改概率。
