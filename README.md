@@ -4,9 +4,9 @@
 灵感来自雷疯https://www.bilibili.com/video/BV1Xm4y1W7Bn/
 
 使用'!!dead help'来查看指定人与概率
-
+`!!awr
 使用'!!dead config w:数字,数字'  来修改概率。
-
+`!!awr`
 前一个数字是命令发送人中奖概率
 
 后一个数字是指定人中奖概率
